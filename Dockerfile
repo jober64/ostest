@@ -1,2 +1,1 @@
-FROM centos:7
-RUN yum install -y httpd
+FROM jenkinsci/jnlp-slave
