@@ -1,1 +1,1 @@
-FROM jenkinsci/jnlp-slave
+FROM jenkinsci/jnlp-slave:latest
